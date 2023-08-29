@@ -1,6 +1,6 @@
 ## Neha's First CS193 Homework 
 
-#Things I like about CS193
+# Things I like about CS193
 - Directions are easy to understand
 - Class only once a week
 - Homework Due every 2 weeks
