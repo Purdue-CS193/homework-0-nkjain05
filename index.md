@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Neha's First CS193 Homework 
+
+#Things I like about CS193
+- Directions are easy to understand
+- Class only once a week
+- Homework Due every 2 weeks
+- 
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
